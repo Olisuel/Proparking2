@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marjorie De Leon\\Downloads\\vehicle_parking_desktop_app\\vehicle_parking_desktop_app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1202E5F8-7906-4EF8-ABE7-71CD0BF79F02}|vehicle_parking_desktop_app.vbproj|c:\\users\\marjorie de leon\\downloads\\vehicle_parking_desktop_app\\vehicle_parking_desktop_app\\viewdata.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1202E5F8-7906-4EF8-ABE7-71CD0BF79F02}|vehicle_parking_desktop_app.vbproj|solutionrelative:viewdata.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1202E5F8-7906-4EF8-ABE7-71CD0BF79F02}|vehicle_parking_desktop_app.vbproj|c:\\users\\marjorie de leon\\downloads\\vehicle_parking_desktop_app\\vehicle_parking_desktop_app\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1202E5F8-7906-4EF8-ABE7-71CD0BF79F02}|vehicle_parking_desktop_app.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1202E5F8-7906-4EF8-ABE7-71CD0BF79F02}|vehicle_parking_desktop_app.vbproj|c:\\users\\marjorie de leon\\downloads\\vehicle_parking_desktop_app\\vehicle_parking_desktop_app\\connection.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1202E5F8-7906-4EF8-ABE7-71CD0BF79F02}|vehicle_parking_desktop_app.vbproj|solutionrelative:connection.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1202E5F8-7906-4EF8-ABE7-71CD0BF79F02}|vehicle_parking_desktop_app.vbproj|c:\\users\\marjorie de leon\\downloads\\vehicle_parking_desktop_app\\vehicle_parking_desktop_app\\parkingmodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1202E5F8-7906-4EF8-ABE7-71CD0BF79F02}|vehicle_parking_desktop_app.vbproj|solutionrelative:parkingmodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1202E5F8-7906-4EF8-ABE7-71CD0BF79F02}|vehicle_parking_desktop_app.vbproj|c:\\users\\marjorie de leon\\downloads\\vehicle_parking_desktop_app\\vehicle_parking_desktop_app\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1202E5F8-7906-4EF8-ABE7-71CD0BF79F02}|vehicle_parking_desktop_app.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1202E5F8-7906-4EF8-ABE7-71CD0BF79F02}|vehicle_parking_desktop_app.vbproj|c:\\users\\marjorie de leon\\downloads\\vehicle_parking_desktop_app\\vehicle_parking_desktop_app\\viewdata.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1202E5F8-7906-4EF8-ABE7-71CD0BF79F02}|vehicle_parking_desktop_app.vbproj|solutionrelative:viewdata.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewData.vb",
+              "DocumentMoniker": "C:\\Users\\Marjorie De Leon\\Downloads\\vehicle_parking_desktop_app\\vehicle_parking_desktop_app\\ViewData.vb",
+              "RelativeDocumentMoniker": "ViewData.vb",
+              "ToolTip": "C:\\Users\\Marjorie De Leon\\Downloads\\vehicle_parking_desktop_app\\vehicle_parking_desktop_app\\ViewData.vb",
+              "RelativeToolTip": "ViewData.vb",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-08T13:13:55.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewData.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Marjorie De Leon\\Downloads\\vehicle_parking_desktop_app\\vehicle_parking_desktop_app\\ViewData.vb",
+              "RelativeDocumentMoniker": "ViewData.vb",
+              "ToolTip": "C:\\Users\\Marjorie De Leon\\Downloads\\vehicle_parking_desktop_app\\vehicle_parking_desktop_app\\ViewData.vb [Design]",
+              "RelativeToolTip": "ViewData.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-08T11:57:17.596Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Marjorie De Leon\\Downloads\\vehicle_parking_desktop_app\\vehicle_parking_desktop_app\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\Marjorie De Leon\\Downloads\\vehicle_parking_desktop_app\\vehicle_parking_desktop_app\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAqwGEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-08T11:58:42.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ParkingModule.vb",
+              "DocumentMoniker": "C:\\Users\\Marjorie De Leon\\Downloads\\vehicle_parking_desktop_app\\vehicle_parking_desktop_app\\ParkingModule.vb",
+              "RelativeDocumentMoniker": "ParkingModule.vb",
+              "ToolTip": "C:\\Users\\Marjorie De Leon\\Downloads\\vehicle_parking_desktop_app\\vehicle_parking_desktop_app\\ParkingModule.vb",
+              "RelativeToolTip": "ParkingModule.vb",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAswGwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-08T11:51:39.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Connection.vb",
+              "DocumentMoniker": "C:\\Users\\Marjorie De Leon\\Downloads\\vehicle_parking_desktop_app\\vehicle_parking_desktop_app\\Connection.vb",
+              "RelativeDocumentMoniker": "Connection.vb",
+              "ToolTip": "C:\\Users\\Marjorie De Leon\\Downloads\\vehicle_parking_desktop_app\\vehicle_parking_desktop_app\\Connection.vb",
+              "RelativeToolTip": "Connection.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-08T11:42:21.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Marjorie De Leon\\Downloads\\vehicle_parking_desktop_app\\vehicle_parking_desktop_app\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\Marjorie De Leon\\Downloads\\vehicle_parking_desktop_app\\vehicle_parking_desktop_app\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-08T11:03:50.619Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
